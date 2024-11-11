@@ -21,6 +21,13 @@ Visualizations (histograms, boxplots, scatterplots, etc.)
 Correlation analysis
 Export the cleaned data as .csv.
 
+## Shiny Dashboard Features
+The interactive Shiny dashboard includes:
+
+Variable Selection: Choose X and Y variables for visualization from the numeric columns.
+Filter by Category: Dynamically filter the dataset by categorical variables like film genre or studio.
+Visualization Type: Select from histogram, scatter plot, or line chart to explore data distributions and relationships.
+
 ## Data Cleaning & Preprocessing
 Remove Missing Values: Dropped rows with NA values.
 Handle Duplicates: Removed duplicate rows based on the Film column.
